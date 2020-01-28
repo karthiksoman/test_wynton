@@ -6,5 +6,4 @@ print("This is from vim")
 print("Once again a change")
 a = np.random.random((2,))
 print(a)
-plt.plot(a)
-plt.show()
+
