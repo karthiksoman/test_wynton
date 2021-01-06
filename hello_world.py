@@ -7,4 +7,4 @@ print("Once again a change")
 print('testing if ok after changing the file to a different folder')
 a = np.random.random((2,))
 print(a)
-
+print('Test clone from imac')
